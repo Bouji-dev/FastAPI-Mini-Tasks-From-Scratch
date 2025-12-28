@@ -1,0 +1,1 @@
+User accessed protected route
